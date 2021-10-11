@@ -26,7 +26,7 @@ if __name__ == '__main__':
      list_of_digits = [3+2]
 
      print (list_of_digits)
-
+     print(int("1000")-int("7"))
      print(int("2")<int("2"))
      print(int("2")>int("1"))
      print(int("3")>int("3"))
